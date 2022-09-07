@@ -1,0 +1,51 @@
+{
+    "items": {
+        [
+            {
+                "item": "cinanamon roll",
+                "type": "food",
+                "price": "2.5"
+            },
+            {
+                "item": "iced coffee",
+                "type": "drink",
+                "price": "5.1"
+            },
+            {
+                "item": "donuts",
+                "type": "food",
+                "price": "1.2"
+            },
+            {
+                "item": "espresso",
+                "type": "drink",
+                "price": "3.5"
+            },
+            {
+                "item": "sandwich",
+                "type": "food",
+                "price": "10.1"
+            },
+            {
+                "item": "tea",
+                "type": "drink",
+                "price": "1.91"
+            },
+            {
+                "item": "americano",
+                "type": "drink",
+                "price": "10.77"
+            },
+            {
+                "item": "cappuccino",
+                "type": "drink",
+                "price": "11.5"
+            },
+            {
+                "item": "mocha",
+                "type": "drink",
+                "price": "9.21"
+            }
+        ]
+    }
+}
